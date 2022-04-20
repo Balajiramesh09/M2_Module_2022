@@ -23,3 +23,13 @@ The buttons must be switched ON before the application starts to work. The poten
 
 ![Codacy](https://user-images.githubusercontent.com/101571637/164258116-26611ec8-9dd7-4a3a-9d29-45abff5f5393.JPG)
 
+
+* Valgrind Analysis:
+
+[![Valgrind](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/Valgrind.yml)
+
+
+* C/C++ Analysis:
+
+[![C/C++ CI](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml/badge.svg)](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml)
+
