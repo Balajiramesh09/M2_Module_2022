@@ -13,7 +13,7 @@ opensource simulation software called SimulIDE.
 
 <h2>WORKING:</h2>
 
-The buttons must be switched ON before the application starts to work. The potentiometer acts as a temperature sensor. It gives the signal which is then converted by ADC and used to make a PWM signal of the corresponding duty cycle, whcih can be seen in the oscilloscope. As the potentiometer is varied, the message which contains the detected temperature is shown in the serial monitor.
+All the buttons must be switched ON before the application starts to work. The potentiometer acts as a temperature sensor. It gives the signal which is then converted by ADC and used to make a PWM signal of the corresponding duty cycle, whcih can be seen in the oscilloscope. As the potentiometer is varied, the message which contains the detected temperature is shown in the serial monitor.
 
 
 <h1>SDLC ACTIVITY BASED LEARNING:</h1>
