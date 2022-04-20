@@ -37,12 +37,14 @@ The buttons must be switched ON before the application starts to work. The poten
 <h1>FOLDER STRUCTURE:</h1>
 
 
+
+</head>
 <body>
 	<table>
 		<thead>
 			<tr>
-				<th>Header 1</th>
-				<th>Header 2</th>
+				<th>FOLDERS</th>
+				<th>DESCRIPTION</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -78,4 +80,3 @@ The buttons must be switched ON before the application starts to work. The poten
 	</table>
 </body>
 </html>
-
