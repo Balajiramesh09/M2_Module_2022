@@ -18,5 +18,8 @@ The buttons must be switched ON before the application starts to work. The poten
 
 <h1>SDLC ACTIVITY BASED LEARNING:</h1>
 
+* Codacy Analysis:
+
+
 ![Codacy](https://user-images.githubusercontent.com/101571637/164258116-26611ec8-9dd7-4a3a-9d29-45abff5f5393.JPG)
 
