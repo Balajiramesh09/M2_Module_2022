@@ -33,3 +33,49 @@ The buttons must be switched ON before the application starts to work. The poten
 
 [![C/C++ CI](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml/badge.svg)](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml)
 
+
+<h1>FOLDER STRUCTURE:</h1>
+
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Header 1</th>
+				<th>Header 2</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><span style="color: rgb(49, 48, 48); background-color: rgb(255, 255, 255);">&nbsp;1_Requirements</span></td>
+				<td>This folder contains documents detailing requirements with regard to the project.</td>
+			</tr>
+			<tr>
+				<td>2_Architecture&nbsp;</td>
+				<td>This folder contains documents specifying the design details with regard to the project.&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;3_Implementation</td>
+				<td>This folder contains all the codes and documentation of the project.&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;4_TestplanAndOutput</td>
+				<td>This folder contains documents with test plans and procedures with regard to project.</td>
+			</tr>
+			<tr>
+				<td>5_Report&nbsp;</td>
+				<td>This folder contains the report of the project.&nbsp;</td>
+			</tr>
+			<tr>
+				<td>6_ImagesAndVideos&nbsp;</td>
+				<td>&nbsp;This folder contains the images of the completed project.</td>
+			</tr>
+			<tr>
+				<td>7_Simulation&nbsp;</td>
+				<td>This folder contains the files necessary for simulation.&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
+
