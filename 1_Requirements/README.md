@@ -5,6 +5,13 @@
 A Thermal control system is basically used to control the temperature anywhere like in a car, bus, livingroom, bedroom etc. so, let's take a car as an example in this projec,When a user or driver of the car gets settled on a car, the button sensor will get activated. After that, the user will get access to turn on the heater. The temperature sensor will keep monitoring the temperature and sends the analog value to the microcontroller. The microcontroller then process the analog input of the temperature sensor and sends produces as a temperature value through the  serial communication. 
 
 
+<h2>SALIENT FEATURES:</h2>
+
+* Flexible approach system
+* Driver and passengers can easily adjust the temperature insidd the vehicle
+* This application is bet suitable for countries having temperatute less than 0℃.
+* This system is user friendly and cost effective.
+
 <h2>CONDITIONS:</h2>
 
 </head>
@@ -57,3 +64,96 @@ A Thermal control system is basically used to control the temperature anywhere l
   
 <h2>HOW:</h2>
   This application is implemented in SimulIDE using Visual Studio code.
+	
+	
+	
+	
+	
+<H2>HIGH LEVEL REQUIREMENTS:</H2>
+	
+
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>REQUIREMENTS</th>
+				<th>DESCRIPTION</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>&nbsp;HLR_1</td>
+				<td>Microcintroller&nbsp;</td>
+			</tr>
+			<tr>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;HLR_2</span>&nbsp;</td>
+				<td>Temperature Sensor&nbsp;</td>
+			</tr>
+			<tr>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;HLR_3</span>&nbsp;</td>
+				<td>&nbsp;LCD or LED Display</td>
+			</tr>
+			<tr>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;HLR_4</span></td>
+				<td>&nbsp;Temperature Generation</td>
+			</tr>
+			<tr>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;HLR_5</span></td>
+				<td>Appropriate Software for implementation&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>	
+
+
+
+
+
+<H2>LOW LEVEL REQUIREMENTS:</H2>
+
+
+
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>REQUIREMENTS</th>
+				<th>DESCRIPTION</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>&nbsp;LLR1_1</td>
+				<td>ATmega 328 microcontroller</td>
+			</tr>
+			<tr>
+				<td><span style="font-style: normal; font-weight: 400;">&nbsp;LLR2_1</span>&nbsp;</td>
+				<td>LM35 and ADC&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;&nbsp;LLR2_2</td>
+				<td>ADC with PWM&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;&nbsp;LLR3_1</td>
+				<td>LCD or LED Displays&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;&nbsp;LLR4_1</td>
+				<td>Heat Pump Module&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;&nbsp;LLR5_1</td>
+				<td>VS code with AVR and GCC Compiler&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;&nbsp;LLR5_2</td>
+				<td>SimulIDE&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
