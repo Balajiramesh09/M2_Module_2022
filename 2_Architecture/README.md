@@ -11,3 +11,8 @@
 <H2>CIRCUIT DIAGRAM:</H2>
 
 ![Circuit](https://user-images.githubusercontent.com/101571637/164424253-92bc73c2-59ef-4a04-9a6d-db78c1d0dff4.JPG)
+
+
+
+
+* This folder contains documents specifying the design details withnregard to the project
