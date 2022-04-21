@@ -91,3 +91,7 @@
 	</table>
 </body>
 </html>
+
+
+
+* This folder contains documents with test plans and procedures with regard to project.
