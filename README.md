@@ -28,7 +28,15 @@ All the buttons must be switched ON before the application starts to work. The p
 * CODIGA ANALYSIS:
 
 
-![Codacy](https://user-images.githubusercontent.com/101571637/164258116-26611ec8-9dd7-4a3a-9d29-45abff5f5393.JPG)
+![cogiga analysis](https://user-images.githubusercontent.com/101571637/164407165-b46de66d-a098-4ad0-bc05-86573b218023.JPG)
+
+
+![Code score](https://user-images.githubusercontent.com/101571637/164408273-2ed43874-54c4-48aa-85b4-ef202bac7713.JPG)
+
+
+
+![Code grade](https://user-images.githubusercontent.com/101571637/164408010-25efa2cc-c001-4cdb-b7a3-e8dc5fd63d77.JPG)
+
 
 
 * VALGRIND ANALYSIS:
