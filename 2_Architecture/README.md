@@ -1,3 +1,21 @@
+<H1>MAIN CIRCUIT:</H1>
+
+
+![Circuit](https://user-images.githubusercontent.com/101571637/164391434-a1ac12c9-a31f-4f3d-bbb2-25e845d405af.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>WORKING FLOWCHART:</h1>
 
 
