@@ -18,18 +18,25 @@ All the buttons must be switched ON before the application starts to work. The p
 
 <h1>SDLC ACTIVITY BASED LEARNING:</h1>
 
-* Codacy Analysis:
+* CODACY ANALYSIS:
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4960b30be03045148cfd6d59c30ff630)](https://www.codacy.com/gh/Balajiramesh09/M2_Module_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Balajiramesh09/M2_Module_2022&amp;utm_campaign=Badge_Grade)
+
+
+
+
+* CODIGA ANALYSIS:
 
 
 ![Codacy](https://user-images.githubusercontent.com/101571637/164258116-26611ec8-9dd7-4a3a-9d29-45abff5f5393.JPG)
 
 
-* Valgrind Analysis:
+* VALGRIND ANALYSIS:
 
 [![Valgrind](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/Valgrind.yml)
 
 
-* C/C++ Analysis:
+* C/C++ ANALYSIS:
 
 [![C/C++ CI](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml/badge.svg)](https://github.com/Balajiramesh09/M2_Module_2022/actions/workflows/c-build.yml)
 
