@@ -1,1 +1,1 @@
-*  This folder contains all the codes and documentation of the project. 
+*  This folder contains all the codes and documentation of the project.
